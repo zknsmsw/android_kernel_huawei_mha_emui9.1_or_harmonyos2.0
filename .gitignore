@@ -1,0 +1,8 @@
+# 常见的内核编译产物排除
+*.o 
+*.ko 
+*.mod 
+.tmp_versions/ 
+vmlinux 
+System.map
+out/
